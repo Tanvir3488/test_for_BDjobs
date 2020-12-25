@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BDJObs Test</string>
+    <string name="experince">Experience</string>
+    <string name="deadline">Deadline</string>
+    <string name="salary">$ Salary</string>
+    <string name="tap">Tap here for apply instruction</string>
+</resources>

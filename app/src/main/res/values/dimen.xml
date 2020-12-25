@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="Job_title_text_size">18sp</dimen>
+    <dimen name="Company_text_size">15sp</dimen>
+    <dimen name="text_margin_left">25dp</dimen>
+    <dimen name="text_margin_left_for_salary">15dp</dimen>
+    <dimen name="text_margin_Top">10dp</dimen>
+</resources>
